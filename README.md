@@ -1,2 +1,3 @@
-# QR-Code-Generator
-This is my personal QR Code Generator, if you dont know how to use it, its not my **problem**
+# Jonesyyy's QR Code Generator
+
+You dont neeed to set this up. It works even only on your Desktop!
